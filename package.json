@@ -1,0 +1,22 @@
+{
+  "name": "dch-reporter",
+  "version": "1.0.8",
+  "description": "Customer DCH reporter to generate various report related artifacts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GA-DCH-Test-Automation/dch-reporter.git"
+  },
+  "author": "Mir Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GA-DCH-Test-Automation/dch-reporter/issues"
+  },
+  "homepage": "https://github.com/GA-DCH-Test-Automation/dch-reporter#readme",
+  "dependencies": {   
+    "zip-local": "^0.3.5"
+  }
+}
